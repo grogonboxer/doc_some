@@ -1,0 +1,1 @@
+#DOC_WIKI_RabbitMQ
